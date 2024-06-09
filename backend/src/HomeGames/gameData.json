@@ -1,0 +1,392 @@
+{
+  "mostPlayedGames": [
+    {
+      "title": "Counter-Strike 2",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/72e7b6b2da72e230cd93b8df1b32ed6d.jpg",
+        "https://cdn2.steamgriddb.com/grid/480d0c9cb2cc4ac70a9a55cfab1118c8.png",
+        "https://cdn2.steamgriddb.com/grid/df377690b48e84274927475ca824125a.png",
+        "https://cdn2.steamgriddb.com/grid/2e5bd953e536cc1d8a9253216d9b38a1.png",
+        "https://cdn2.steamgriddb.com/grid/f4a3effdb165bf69de017b92a244a79f.png",
+        "https://cdn2.steamgriddb.com/grid/0beb34df7e9615cd43b9090989ca4848.png",
+        "https://cdn2.steamgriddb.com/grid/90a8ac4f9356f6d19e75c2b83b3b92fc.png",
+        "https://cdn2.steamgriddb.com/grid/25fc549985eba12d68f0dfc95cce5a7a.png",
+        "https://cdn2.steamgriddb.com/grid/410752bab2cba660c9a996619e104261.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/2b1ec9ecde3fcfa54840a68765c3f647.png"
+    },
+    {
+      "title": "Dota 2",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/d91d1b4d82419de8a614abce9cc0e6d4.png",
+        "https://cdn2.steamgriddb.com/grid/c6a1efb36b96a72c4368eeca67ae9b8d.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/0fcbc61acd0479dc77e3cccc0f5ffca7.png"
+    },
+    {
+      "title": "PUBG: BATTLEGROUNDS",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/60db0c5f5840d7c31f42470bbb9f0846.png",
+        "https://cdn2.steamgriddb.com/grid/505e7e6fe5111391440a71b1f36d26ba.png",
+        "https://cdn2.steamgriddb.com/grid/afb977e6e8e4d5cad52135a17bbf90cc.png",
+        "https://cdn2.steamgriddb.com/grid/0e11c5d19204c3c8e967811d54adbede.png",
+        "https://cdn2.steamgriddb.com/grid/e5256d2c524d3333632eea9d60f2d230.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/f387624df552cea2f369918c5e1e12bc.png"
+    },
+    {
+      "title": "Destiny 2",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/f5e083092550d2f93898e9829e677e39.png",
+        "https://cdn2.steamgriddb.com/grid/a1013aceb409fae19fd98b6b1f1a27f1.jpg",
+        "https://cdn2.steamgriddb.com/grid/fd00a59e31d5e0e9690dfff364998c2b.png",
+        "https://cdn2.steamgriddb.com/grid/b41b4c837c518f0c1420c994910f2960.png",
+        "https://cdn2.steamgriddb.com/grid/c8fedda52492ea8b5b02dd9cb7e0bcdc.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/e1740c5223422374b7fb1888478aabb9.jpg"
+    },
+    {
+      "title": "Apex Legends",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/60b4471e1fb1e8e0d266d97071669ccb.jpg",
+        "https://cdn2.steamgriddb.com/grid/b3ef77f9a175c99c357bcb63060908f9.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/991327d63593b0ba2c45618bf81f6a64.png"
+    },
+    {
+      "title": "Banana",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/1a8a4bfecf10daf5a4bf06540d6812b4.png",
+        "https://cdn2.steamgriddb.com/grid/1eaa3054a1f3c5ff01603458c7f6ebff.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/c22692159f972e6638d17ec7c6023bfa.png"
+    },
+    {
+      "title": "NARAKA: BLADEPOINT",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/024c1bf4ac36b4f41075c4e50b4ec590.png",
+        "https://cdn2.steamgriddb.com/grid/1b00a1f5b2c99cc01d5777393fd0b9cf.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/d923cc098f686ed556d96d787e34faaf.jpg"
+    },
+    {
+      "title": "Rust",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/d80460d2c687f8aeb7548ed896022043.png",
+        "https://cdn2.steamgriddb.com/grid/a6da680bcb675843419f2ba88a7ab7b8.png",
+        "https://cdn2.steamgriddb.com/grid/e417e85606b3fc0cdab5f65d721f2ee0.png",
+        "https://cdn2.steamgriddb.com/grid/495db432a19812cb1cef36186c1df7d8.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/7ff7ca9cc8db185788a6054737e03afb.jpg"
+    },
+    {
+      "title": "Source SDK Base 2007",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/a27011678db232be4bc660d9e5900a1e.png",
+        "https://cdn2.steamgriddb.com/grid/e98f9a217e01cb808d706c22296b1ab7.png",
+        "https://cdn2.steamgriddb.com/grid/c95f24e7957e40500ea2acf314bd0707.png",
+        "https://cdn2.steamgriddb.com/grid/ff6d788c7af7a5fd2c81103d66468ba0.png",
+        "https://cdn2.steamgriddb.com/grid/0f5e0b65d55a65be313a1a01f6e8c4d4.png",
+        "https://cdn2.steamgriddb.com/grid/256076e2c265c8190bb498e3ed500ae6.png",
+        "https://cdn2.steamgriddb.com/grid/cfecdb276f634854f3ef915e2e980c31.png",
+        "https://cdn2.steamgriddb.com/grid/81368a74358da9d6575e19d8b1791837.png",
+        "https://cdn2.steamgriddb.com/grid/e13858e9491e674d1a5140c0bd4eb9c4.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/040fec70955253769acc94f134177c63.png"
+    },
+    {
+      "title": "Wallpaper Engine",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/4a88017f1f83c4e28a64117af5969140.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/ba038e2a20ded4a1d146841e6ed42f22.png"
+    },
+    {
+      "title": "Grand Theft Auto V",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/d3ea8534ec8c9c3fde3cb34ca596b05f.jpg",
+        "https://cdn2.steamgriddb.com/grid/51b10e858b0f29f27c250b9fa8d4525f.png",
+        "https://cdn2.steamgriddb.com/grid/0ba425cc5b752326954361d23a9999b5.png",
+        "https://cdn2.steamgriddb.com/grid/f46b81168dc6aacec8a498133458e325.png",
+        "https://cdn2.steamgriddb.com/grid/680013e02de73c3a0202bec34b0d06e3.png",
+        "https://cdn2.steamgriddb.com/grid/fb94336d3cce1c0f3f6d61527c6d73db.png",
+        "https://cdn2.steamgriddb.com/grid/498a2d50b805ce98cb287040deea82fa.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/5c645cc19a53ac1dfb155840d886050c.png"
+    },
+    {
+      "title": "ELDEN RING",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/f5ed13775a70b09a08ffcf0fbecb9efd.png",
+        "https://cdn2.steamgriddb.com/grid/dfa053516f5c29d21bfd8d472400c527.jpg",
+        "https://cdn2.steamgriddb.com/grid/e0d0136c2b9ea962a359f91951271c30.png",
+        "https://cdn2.steamgriddb.com/grid/0dbe3aeef130af477b18ffa96e35817e.png",
+        "https://cdn2.steamgriddb.com/grid/de433e69166dc2a3348e6cf00a1cfeca.png",
+        "https://cdn2.steamgriddb.com/grid/6c9faca31f3e95645a312576ba1dceb5.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/5b359e020d0c4726dd6876f6e6500648.png"
+    },
+    {
+      "title": "Call of Duty®",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/2f2b265625d76a6704b08093c652fd79.png",
+        "https://cdn2.steamgriddb.com/grid/b9a509db61293952e8ff92aae1029448.png",
+        "https://cdn2.steamgriddb.com/grid/209d439cb668c11fc8657c4d90dee1d2.png",
+        "https://cdn2.steamgriddb.com/grid/e94378d015c20a82b0585c1011f97d7e.png",
+        "https://cdn2.steamgriddb.com/grid/7f7e6eaa61e5b3fecec9e364aafd8a8e.png",
+        "https://cdn2.steamgriddb.com/grid/de6e551c3a0fe9644661aa978baf7ca8.png",
+        "https://cdn2.steamgriddb.com/grid/1bc2614c1175d7346deacbf87a4a27ba.png",
+        "https://cdn2.steamgriddb.com/grid/0c0a7566915f4f24853fc4192689aa7e.png",
+        "https://cdn2.steamgriddb.com/grid/4f3244fc8b8787fe45c90c2a41c28478.png",
+        "https://cdn2.steamgriddb.com/grid/a69be1267597ec9a25e7edf7fdd790da.jpg"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/77ef24b42fcecae4ba74fa68137f3e43.png"
+    },
+    {
+      "title": "Team Fortress 2",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/b910d3f99e7b1914625a5af2d57afb05.png",
+        "https://cdn2.steamgriddb.com/grid/4601b6ee91b877b27a5bda71eed806a4.png",
+        "https://cdn2.steamgriddb.com/grid/ad9e7fc1d121c8d3652fa5348865e1ea.png",
+        "https://cdn2.steamgriddb.com/grid/3aec98ac8582d1ac774899008a3efce6.png",
+        "https://cdn2.steamgriddb.com/grid/11348e03e23b137d55d94464250a67a2.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/c6e9701b682ec8f4cc3f8923c1dbb1f8.png"
+    },
+    {
+      "title": "Stardew Valley",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/e08cfafc30c724473fb5b159480b481c.jpg",
+        "https://cdn2.steamgriddb.com/grid/c85e5f02d89455ab598087302b30f6de.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/d44c78dcad9de0aed2f37902ea02cef2.png"
+    }
+  ],
+  "trendingGames": [
+    {
+      "title": "Dark and Darker",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/4dffaf1bb3c82c2fb7a5782a2ecbe91a.jpg",
+        "https://cdn2.steamgriddb.com/grid/228a5d5f8db664e7bf08136a292659c5.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/2b1a496e4f5765deaa47a9462fedf212.png"
+    },
+    {
+      "title": "Hero Siege",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/7e0a0209b929d097bd3e8ef30567a5c1.png",
+        "https://cdn2.steamgriddb.com/grid/8303a79b1e19a194f1875981be5bdb6f.png",
+        "https://cdn2.steamgriddb.com/grid/e60e81c4cbe5171cd654662d9887aec2.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/b6617980ce90f637e68c3ebe8b9be745.png"
+    },
+    {
+      "title": "Banana",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/1a8a4bfecf10daf5a4bf06540d6812b4.png",
+        "https://cdn2.steamgriddb.com/grid/1eaa3054a1f3c5ff01603458c7f6ebff.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/c22692159f972e6638d17ec7c6023bfa.png"
+    },
+    {
+      "title": "Test Drive Unlimited Solar Crown Demo",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/26726aac0d99e415539229d6e53e209e.png",
+        "https://cdn2.steamgriddb.com/grid/8aa13cde656ce4c597d7868fb7841e18.png",
+        "https://cdn2.steamgriddb.com/grid/0a0a0c8aaa00ade50f74a3f0ca981ed7.png",
+        "https://cdn2.steamgriddb.com/grid/9b70e8fe62e40c570a322f1b0b659098.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/016ddcc4fef41865c385b820f507463e.png"
+    },
+    {
+      "title": "Empires of the Undergrowth",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/242e39861358b3d259b539a243005b25.png",
+        "https://cdn2.steamgriddb.com/grid/f8b3037aae5860c291b8fbedeb013514.png",
+        "https://cdn2.steamgriddb.com/grid/51681a7c14879f9eca39669df858f75b.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Killer Klowns From Outer Space: The Game",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/f0f393ba2ca9b4cd58ecbc7ee0292a45.png",
+        "https://cdn2.steamgriddb.com/grid/6eaf442c311fdcce53f6470bea095197.png",
+        "https://cdn2.steamgriddb.com/grid/7cf2ef9ed8525c1419b39354a973b235.png",
+        "https://cdn2.steamgriddb.com/grid/9e56c0ade0c20929003a206e517ddb91.jpg"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/2ac8f1d97ea8fe3c911b0f0395312583.png"
+    },
+    {
+      "title": "Sneak Out",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/f69c9dff95fd7e365089e9b7d7e16a1a.png",
+        "https://cdn2.steamgriddb.com/grid/f8ef30217b6ae6a608104ba9bfabbba4.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Roboquest",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/7a4df12d8f72b3c7cfb17a7ace4f0c26.jpg"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/3d0f155fdc86b8d9012d8a30e6298b72.jpg"
+    },
+    {
+      "title": "TopSpin 2K25",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/fdfb747f3811c255ad0e32fce91d72df.png",
+        "https://cdn2.steamgriddb.com/grid/0a688ad7351b2e3cfec7ee3112206e6b.png",
+        "https://cdn2.steamgriddb.com/grid/141facdacb30c9b2e86172c3cfdbecc1.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/3158dfe4f519d75a5e37580a12928571.jpg",
+        "https://cdn2.steamgriddb.com/grid/e693f89c7f72d1e2eabb07dc08d3aa5c.png",
+        "https://cdn2.steamgriddb.com/grid/74093e762e3747d3965126f98cbe4e57.png",
+        "https://cdn2.steamgriddb.com/grid/98dcdabcd71a633ea42116bab39dcdee.png",
+        "https://cdn2.steamgriddb.com/grid/e54252455014c64afdf49d1ddc35af9a.png",
+        "https://cdn2.steamgriddb.com/grid/79826df267cb70ce255c863b13c9a0d2.png",
+        "https://cdn2.steamgriddb.com/grid/e37d9170a3efe711ce2a5eb3df2253dd.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/55ffbc6f00eda5781c6a4f5d91a17a2a.jpg"
+    },
+    {
+      "title": "Dark and Darker Playtest",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/4dffaf1bb3c82c2fb7a5782a2ecbe91a.jpg",
+        "https://cdn2.steamgriddb.com/grid/228a5d5f8db664e7bf08136a292659c5.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/2b1a496e4f5765deaa47a9462fedf212.png"
+    }
+  ],
+  "popularReleases": [
+    {
+      "title": "Dark and Darker",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/4dffaf1bb3c82c2fb7a5782a2ecbe91a.jpg",
+        "https://cdn2.steamgriddb.com/grid/228a5d5f8db664e7bf08136a292659c5.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/2b1a496e4f5765deaa47a9462fedf212.png"
+    },
+    {
+      "title": "Sneak Out",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/f69c9dff95fd7e365089e9b7d7e16a1a.png",
+        "https://cdn2.steamgriddb.com/grid/f8ef30217b6ae6a608104ba9bfabbba4.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Empires of the Undergrowth",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/242e39861358b3d259b539a243005b25.png",
+        "https://cdn2.steamgriddb.com/grid/f8b3037aae5860c291b8fbedeb013514.png",
+        "https://cdn2.steamgriddb.com/grid/51681a7c14879f9eca39669df858f75b.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Killer Klowns From Outer Space: The Game",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/f0f393ba2ca9b4cd58ecbc7ee0292a45.png",
+        "https://cdn2.steamgriddb.com/grid/6eaf442c311fdcce53f6470bea095197.png",
+        "https://cdn2.steamgriddb.com/grid/7cf2ef9ed8525c1419b39354a973b235.png",
+        "https://cdn2.steamgriddb.com/grid/9e56c0ade0c20929003a206e517ddb91.jpg"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/2ac8f1d97ea8fe3c911b0f0395312583.png"
+    },
+    {
+      "title": "Nightmare Kart",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/0e58111af177bec3ecd90a9dd05d7907.jpg"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/8daf05290fb68cc03ce36503465aeac1.png"
+    },
+    {
+      "title": "Mirror of Heaven",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/77cbfbc40fb71b05e41a1bc233e826e6.png",
+        "https://cdn2.steamgriddb.com/grid/d523773c6b194f37b938d340d5d02232.png"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/7fb8ceb3bd59c7956b1df66729296a4c.jpg"
+    },
+    {
+      "title": "Castle of Alchemists: Prologue",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/f14fe06f4b9d4176fd65114f34e9dddc.png",
+        "https://cdn2.steamgriddb.com/grid/ef65540fc263cbd155ea601a384faa09.png",
+        "https://cdn2.steamgriddb.com/grid/1e015d3b4a83e478faf3a3693cfce279.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Ultimate General: American Revolution",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/9a3f263a5e5f63006098a05cd7491997.png",
+        "https://cdn2.steamgriddb.com/grid/e081da04d35476042080e772b1d93094.jpg"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Blockbuster Inc.",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/f4a023d2c3b25510bbdbaa4bb4c5dbf5.png"
+      ],
+      "hero": null
+    }
+  ],
+  "hotReleases": [
+    {
+      "title": "Nightmare Kart",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/0e58111af177bec3ecd90a9dd05d7907.jpg"
+      ],
+      "hero": "https://cdn2.steamgriddb.com/hero/8daf05290fb68cc03ce36503465aeac1.png"
+    },
+    {
+      "title": "Empires of the Undergrowth",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/242e39861358b3d259b539a243005b25.png",
+        "https://cdn2.steamgriddb.com/grid/f8b3037aae5860c291b8fbedeb013514.png",
+        "https://cdn2.steamgriddb.com/grid/51681a7c14879f9eca39669df858f75b.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Letter Lancers: Prologue",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/8493eeaccb772c0878f99d60a0bd2bb3.png",
+        "https://cdn2.steamgriddb.com/grid/4bbbe6cb5982b9110413c40f3cce680b.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Castle of Alchemists: Prologue",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/f14fe06f4b9d4176fd65114f34e9dddc.png",
+        "https://cdn2.steamgriddb.com/grid/ef65540fc263cbd155ea601a384faa09.png",
+        "https://cdn2.steamgriddb.com/grid/1e015d3b4a83e478faf3a3693cfce279.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Doodle Adventure of Chameleon",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/9873823e818e05c8b552c93bb51c3c11.png"
+      ],
+      "hero": null
+    },
+    {
+      "title": "Lust Mansion 🔞",
+      "images": [
+        "https://cdn2.steamgriddb.com/grid/398cb9f803be9b1ec29bbf94d373a973.png",
+        "https://cdn2.steamgriddb.com/grid/965bd5da7ae6fe4d7b906d7ddd624fbf.png"
+      ],
+      "hero": null
+    }
+  ]
+}

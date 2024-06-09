@@ -1,0 +1,57 @@
+<div class="home-container">
+    <header>
+      <h1>game pass</h1>
+      <h2>Download Games</h2>
+    </header>
+    <section class="game-categories">
+      <ul class="tabs">
+        <li (click)="selectTab('mostPlayedGames')" [class.active]="selectedTab === 'mostPlayedGames'">Most Played Games</li>
+        <li (click)="selectTab('trendingGames')" [class.active]="selectedTab === 'trendingGames'">Trending Games</li>
+        <li (click)="selectTab('popularReleases')" [class.active]="selectedTab === 'popularReleases'">Popular Releases</li>
+        <li (click)="selectTab('hotReleases')" [class.active]="selectedTab === 'hotReleases'">Hot Releases</li>
+      </ul>
+      <div class="tab-content">
+        <div *ngIf="selectedTab === 'mostPlayedGames'" class="tab-pane">
+          <div class="games-list">
+            <div class="game-card" *ngFor="let game of mostPlayedGames">
+              <img [src]="game.images[0]" alt="{{ game.title }}">
+              <div class="game-info">
+                <h4>{{ game.title }}</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div *ngIf="selectedTab === 'trendingGames'" class="tab-pane">
+          <div class="games-list">
+            <div class="game-card" *ngFor="let game of trendingGames">
+              <img [src]="game.images[0]" alt="{{ game.title }}">
+              <div class="game-info">
+                <h4>{{ game.title }}</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div *ngIf="selectedTab === 'popularReleases'" class="tab-pane">
+          <div class="games-list">
+            <div class="game-card" *ngFor="let game of popularReleases">
+              <img [src]="game.images[0]" alt="{{ game.title }}">
+              <div class="game-info">
+                <h4>{{ game.title }}</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div *ngIf="selectedTab === 'hotReleases'" class="tab-pane">
+          <div class="games-list">
+            <div class="game-card" *ngFor="let game of hotReleases">
+              <img [src]="game.images[0]" alt="{{ game.title }}">
+              <div class="game-info">
+                <h4>{{ game.title }}</h4>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  

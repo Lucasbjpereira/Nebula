@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Trends</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Game Trends</h1>
+        <nav>
+            <button onclick="showSection('mostPlayed')">Most Played</button>
+            <button onclick="showSection('trending')">Trending</button>
+            <button onclick="showSection('popularReleases')">Popular Releases</button>
+            <button onclick="showSection('hotReleases')">Hot Releases</button>
+        </nav>
+    </header>
+    <main>
+        <section id="mostPlayed" class="game-section">
+            <h2>Most Played Games</h2>
+            <div class="game-grid" id="mostPlayedGames"></div>
+        </section>
+        <section id="trending" class="game-section hidden">
+            <h2>Trending Games</h2>
+            <div class="game-grid" id="trendingGames"></div>
+        </section>
+        <section id="popularReleases" class="game-section hidden">
+            <h2>Popular Releases</h2>
+            <div class="game-grid" id="popularReleases"></div>
+        </section>
+        <section id="hotReleases" class="game-section hidden">
+            <h2>Hot Releases</h2>
+            <div class="game-grid" id="hotReleases"></div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+
+</html>
